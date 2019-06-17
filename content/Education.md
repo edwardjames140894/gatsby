@@ -1,14 +1,3 @@
----
-title: Japan.
-date: "2019-04-02"
-template: "post"
-draft: false
-slug: "/Japan"
-category: "Japan"
-tags:
-  - "Japan"
-description: "やさしい日本語 Cùng nhau học tiếng Nhật."
----
 ABA English – Learn English v3.10.9 (Premium)
 <img src/components = "/images/twitter.svg" alt = "jp1" border = "0" align = "center"/>
 ABA English - Learn English
